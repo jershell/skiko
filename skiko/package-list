@@ -2636,7 +2636,6 @@ $dokka.location:org.jetbrains.skiko//toSkikoEvent/#[Error type: Unresolved type 
 $dokka.location:org.jetbrains.skiko//toSkikoEvent/#java.awt.event.KeyEvent/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-event.html
 $dokka.location:org.jetbrains.skiko//toSkikoEvent/#java.awt.event.MouseEvent/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-event.html
 $dokka.location:org.jetbrains.skiko//toSkikoEvent/#java.awt.event.MouseWheelEvent/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-event.html
-$dokka.location:org.jetbrains.skiko//toSkikoEvent/#org.w3c.dom.TouchEvent#org.jetbrains.skiko.SkikoPointerEventKind#kotlin.Double#kotlin.Double/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-event.html
 $dokka.location:org.jetbrains.skiko//toSkikoGestureDirection/#[Error type: Unresolved type for UISwipeGestureRecognizerDirection]/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-gesture-direction.html
 $dokka.location:org.jetbrains.skiko//toSkikoGestureState/#[Error type: Unresolved type for UIGestureRecognizerState]/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-gesture-state.html
 $dokka.location:org.jetbrains.skiko//toSkikoKeyboardEvent/#[Error type: Unresolved type for UIPress]#[Error type: Unresolved type for SkikoKeyboardEventKind]/PointingToDeclaration/skiko/org.jetbrains.skiko/to-skiko-keyboard-event.html
